@@ -1,38 +1,12 @@
-# Library Untuk Membangun Website Simple
+# Playlist Spotify
 ----
 
 ## Pendahuluan
 ---
-Library ini dibuat dengan tujuan  untuk developing seperti untuk landing page, company profile, 
-Website portfolio dan yang lainnya secara mudah dan simple karena semua file dan kofigurasi sudah di set seminimalis mungkin
+Playlist ini aku buat tujuannya buat ngechill dikamar pas selesai kerja / belajar bahkan kadang aku dengerin juga pas lagi nyetir supaya ga sepi aja sih sebenernya hehehe, Btw buat kamu yang buka playlist ini siapapun itu Selamat Mendengarkan !!!
 
-
-----
-## Silahkan Di Clone Dulu !!!
-```
-git clone https://github.com/itsmebroarif/Native-Library.git
-```
-
----
-## Installasi Native Library
----
-Installasi Direktori File nya terlebih dahulu
-
-```
-npm run set-env
-```
-
-Setelah itu install package pendukung (Opsional)
-
-```
-npm run install-config
-```
-
-
-Ketika semua sudah selesai dilakukan, Silahkan lakukan konfigurasi terakhir ini untuk penggunaan kalian
-```
 .
-└── Native_Library/
+└── Spotify_Playlist/
     ├── css/
     │   ├── style.css
     │   ├── boostrap.css
