@@ -1,0 +1,33 @@
+/* Fixed Class*/
+body {
+    color: white;
+    background: linear-gradient(270deg, #27b994, #27a4b9, #735bb1);
+    background-size: 600% 600%;
+    animation: AnimationName 15s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+/* Component Class */
+.navbar {
+  background-color: rgb(19, 28, 68);
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
